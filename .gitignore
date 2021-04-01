@@ -2,6 +2,5 @@
 /log
 /.idea
 conf.toml
-app.conf
 /project.*
 /project
